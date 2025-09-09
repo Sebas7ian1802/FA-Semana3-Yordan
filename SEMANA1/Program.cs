@@ -30,7 +30,7 @@ namespace SEMANA1
 
         static void ejer2()
         {
-
+            Console.WriteLine("\"Yordan\"");
         }
 
         static void ejer3()
