@@ -34,4 +34,13 @@ def ejer4():
     print("Al cubo: ",cubo)
     print("Raiz cubica: ",cubica)
 
-ejer4()
+def ejer5():
+    num = input("Ingrese un numero: ")
+
+    entero = int(num)
+    decim = float(num)
+
+    print("Resto: ", (entero%2))
+    print("Resto: ", (decim/3))
+
+ejer5()
