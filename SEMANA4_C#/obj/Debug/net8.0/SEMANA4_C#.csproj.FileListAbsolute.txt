@@ -3,3 +3,8 @@ C:\Users\UPN\Desktop\FA SMN5\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMAN
 C:\Users\UPN\Desktop\FA SMN5\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.AssemblyInfo.cs
 C:\Users\UPN\Desktop\FA SMN5\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\FA SMN5\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.sourcelink.json
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.AssemblyInfo.cs
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA4_C#\obj\Debug\net8.0\SEMANA4_C#.sourcelink.json

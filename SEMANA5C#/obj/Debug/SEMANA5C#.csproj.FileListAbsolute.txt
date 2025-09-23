@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\bin\Debug\SEMANA5C#.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\bin\Debug\SEMANA5C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\bin\Debug\SEMANA5C#.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\obj\Debug\SEMANA5C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\obj\Debug\SEMANA5C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\obj\Debug\SEMANA5C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA-Semana3-Yordan\SEMANA5C#\obj\Debug\SEMANA5C#.pdb

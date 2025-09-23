@@ -6,7 +6,7 @@
     <RootNamespace>SEMANA4_C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SEMANA4_C_.ejer2</StartupObject>
+    <StartupObject>SEMANA4_C_.SEMANA5</StartupObject>
   </PropertyGroup>
 
 </Project>
