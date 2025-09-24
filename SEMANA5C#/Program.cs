@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEMANA5C_
+namespace SEMANA5_Csharp
 {
     internal class Program
     {
@@ -12,7 +12,7 @@ namespace SEMANA5C_
         {
             int pares = 0, impares = 0, ceros = 0;
 
-            Console.Write("Ingrese la cantidad de numeros: ");
+            Console.Write("Ingrese la cantidad de números: ");
             int cant = int.Parse(Console.ReadLine());
 
             Console.WriteLine();

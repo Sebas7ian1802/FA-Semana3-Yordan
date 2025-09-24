@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA4_C#.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA_4_C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA4_C#.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA_4_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA4_C#.csproj",
-        "projectName": "SEMANA4_C#",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA4_C#.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA_4_C#.csproj",
+        "projectName": "SEMANA_4_C#",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\SEMANA_4_C#.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Usuario\\Desktop\\T1 FA\\FA-Semana3-Yordan\\SEMANA4_C#\\obj\\",
         "projectStyle": "PackageReference",

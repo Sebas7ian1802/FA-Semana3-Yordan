@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0fa98eba-0a3d-4112-a880-65fb0c5d2f98</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>SEMANA1_PYTHON.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>SEMANA_3_PYTHON.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>SEMANA1_PYTHON</Name>
+    <Name>SEMANA_3_PYTHON</Name>
     <RootNamespace>SEMANA1_PYTHON</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -21,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="SEMANA1_PYTHON.py" />
+    <Compile Include="SEMANA_3_PYTHON.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

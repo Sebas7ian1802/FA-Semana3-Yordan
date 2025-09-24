@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SEMANA4_C_
+namespace SEMANA4_Csharp
 {
     internal class ejer2
     {
         static void Main(string[] args)
         {
             Console.Write("Ingrese un año: ");
-            int year = int.Parse(Console.ReadLine());
+            int year = int.Parse(Console.ReadLine()!);
 
             if (year % 4 == 0 && year %100 != 0 || year %400 ==0) 
             {

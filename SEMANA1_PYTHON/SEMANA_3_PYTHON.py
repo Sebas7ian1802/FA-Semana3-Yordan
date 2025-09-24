@@ -1,14 +1,30 @@
 
 def ejer1():
+
+  #1.Desarrollar un programa que solicite tu nombre y carrera y luego imprima “<Tu
+  #nombre >, Bienvenido al curso de Fundamentos de Algoritmos de la carrera<Tu
+  #carrera>”.
+
     nombre = input("Ingrese su nombre: ")
     carrera = input("Ingrese su carrera: ")
 
     print(f"\n{nombre}, bienvenido al curso de fudamentos de algoritmo de la carrera {carrera}")
 
 def ejer2():
+
+  #2.Desarrollar un algoritmo que te permita imprimir tu nombre entre comillas
+  #dobles.
+
     print("\"Yordan\"")
 
 def ejer3():
+
+  # 3.Solicitar al usuario dos números enteros y realizar las siguientes operaciones:
+  # • Suma.
+  # • Resta.
+  # • Multiplicación.
+  # • División.
+
     num1 = int(input("Ingrese numero 1: "))
     num2 = int(input("Ingrese numero 2: "))
 
@@ -20,6 +36,13 @@ def ejer3():
 import math #importando libreria math
 
 def ejer4():
+
+  # 4.Solicitar al usuario un número decimal(ej. 12.75) y calcular:
+  # • Su raíz cuadrada.
+  # • El valor redondeado sin decimales.
+  # • El resultado de elevar el número al cubo.
+  # • Su raíz cubica.
+
     num = float(input("Ingrese numero decimal: "))
 
     raiz = math.sqrt(num)
@@ -33,6 +56,12 @@ def ejer4():
     print("Raiz cubica: ",cubica)
 
 def ejer5():
+
+  # 5.Solicitar al usuario que ingrese un número en formato de texto(string) y
+  # convertirlo a:
+  # • Entero y mostrar su resto al dividir entre 2.
+  # • Decimal y dividirlo entre 3.
+
     num = input("Ingrese un numero: ")
 
     entero = int(num)
@@ -41,49 +70,4 @@ def ejer5():
     print("Resto: ", (entero%2))
     print("Resto: ", (decim/3))
 
-def ejer6():
-
-    lado1 = int(input("Ingrese lado 1: "))
-    lado2 = int(input("Ingrese lado 2: "))
-    lado3 = int(input("Ingrese lado 3: "))
-
-    if lado1==  lado2== lado3:
-        print("Triangulo equilatero")
-    elif lado1==lado2 or lado2 == lado3 or lado1 == lado3:
-        print("Triangulo isosceles")
-    else:
-        print("Triangulo escaleno")
-
-
-def ejer7():
-
-    n=int(input("Ingrese un numero: "))
-    suma = 0;
-
-    for i in range(1,n+1):
-        print(i)
-
-        if(i%2 ==0):
-            suma += i
-
-    print("\nSuma de pares: ",suma)
-
-def ejer8():
-
-    cant = int(input("Ingrese la cantidad numeros: "))
-    pares = impares = ceros =0
-    for i in range(1, cant +1):
-        num = int(input(f"Ingrese numero {i}: "))
-
-        if num ==0:
-            ceros+=1 # ceross++
-        elif num%2 == 0:
-            pares+=1
-        else:
-            impares += 1
-
-    print("\n# pares: ",pares)
-    print("# Impares: ",impares)
-    print("# ceros: ", ceros)
-
-ejer8()
+ejer5()

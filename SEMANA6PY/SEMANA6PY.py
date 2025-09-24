@@ -20,7 +20,7 @@ def ejer2():
         num = int(input("Ingrese numero positivo (0 salir): "))
 
         if num < 0:
-            print("Numero ivalido. Ingrese numero positivo")
+            print("Numero invalido. Ingrese numero positivo")
             continue
         if (num == 0):
             break
@@ -28,8 +28,7 @@ def ejer2():
             sumaP += num;
         else:
             sumaI += num;
-
-print ("\nSuma de pres: ", sumaP")
-print ("Suma de impares: ", sumaI")
+    print ("\nSuma de pres: ", sumaP)
+    print ("Suma de impares: ", sumaI)
 
 ejer2()
