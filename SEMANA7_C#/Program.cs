@@ -11,7 +11,7 @@ namespace SEMANA7_C_
         static void Main(string[] args)
 
         {
-            ejer2();
+            ejer3();
             Console.ReadKey(); //detenimiento de consola
         }
 
@@ -73,6 +73,30 @@ namespace SEMANA7_C_
                 }
             }while (intentos > 0);
             Console.WriteLine($"\nNo lograste adivinar el numero {secreto}!");
+        }
+
+        static void ejer3()
+        {
+            string opcion;
+            int suma = 0;
+            do
+            {
+                Console.Clear(); //Limpiador
+                Console.Write("Ingrese un numero positivo: ");
+                int num = int.Parse(Console.ReadLine());
+
+                for (int i = 1; i <= num; i++)
+                    suma += i;
+
+                Console.WriteLine("\nSuma: " + suma);
+
+                Console.Write("¿Desea continuar (S/N): ");
+                opcion = Console.ReadLine();
+
+                
+
+            } while (opcion != "N");
+            Console.WriteLine("\nPrograma finalizado");
         }
     }
 }
