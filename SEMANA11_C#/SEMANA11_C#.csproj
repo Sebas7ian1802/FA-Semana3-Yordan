@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SEMANA11_C_.Ejer_6</StartupObject>
+    <StartupObject>SEMANA11_C_.Ejer_7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Ejer_1.cs" />
     <Compile Include="Ejer_5.cs" />
     <Compile Include="Ejer_6.cs" />
+    <Compile Include="Ejer_7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
