@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.exe.config
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.exe
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.pdb
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA_3_C#.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.exe.config
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA_3_C#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.exe
+C:\Users\Usuario\Desktop\T1 FA\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\bin\Debug\SEMANA1.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA_3_C#.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA_3_C#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\FA-Semana3-Yordan\SEMANA1\obj\Debug\SEMANA1.pdb
